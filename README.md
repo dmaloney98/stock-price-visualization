@@ -1,6 +1,6 @@
 # Stock Price Visualization
 
-This project provides a simple way to visualize the historical closing prices and moving averages of a stock using Python, yfinance, and Matplotlib. The example used in the project is for the Apple Inc. (AAPL) stock, but it can be easily modified for any other stock by changing the stock ticker symbol.
+This project provides a simple way to visualize the historical closing prices and moving averages of a stock using Python, yfinance, and Matplotlib. The example used in the project is for the Google stock (GOOGL), but it can be easily modified for any other stock by changing the stock ticker symbol.
 
 ## Requirements
 
